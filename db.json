@@ -1,6 +1,6 @@
 {
   "checkins": [
-  	{ "email": "123@gmail.com", "code": 1111, "date": 1571522743}
+  	{ "email": "123@gmail.com", "code": "1111", "date": "1571522743"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
