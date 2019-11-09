@@ -6,6 +6,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "events": [
+    { "title": "Testing and Security Workshop", "date": 1573405200},
+    { "title": "This was yesterday", "date": 1573171200},
+    { "title": "This has started", "date": 1573326000},
+    { "title": "This has not started", "date": 1573340400}
+  ],  
   "profile": {
     "name": "typicode"
   }
