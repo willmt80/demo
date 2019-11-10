@@ -10,7 +10,7 @@
     { "id": 1, "title": "Testing and Security Workshop", "date": 1573405200},
     { "id": 2, "title": "This was yesterday", "date": 1573171200},
     { "id": 3, "title": "This has started", "date": 1573326000},
-    { "id": 4, "title": "This has not started", "date": 1573390400}
+    { "id": 4, "title": "This has not started", "date": 1573370400}
   ],  
   "profile": {
     "name": "typicode"
