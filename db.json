@@ -52,7 +52,7 @@
       "name": "Stephen Alt",
       "linkedinLink": "https://www.linkedin.com/in/stephenalt/",
       "email": "alt.s@husky.neu.edu",
-      "imageUrl": "../assets/Eboard/stephen_alt.jpg",
+      "imageUrl": "@/assets/Eboard/stephen_alt.jpg",
       "position": "President",
       "bio":
         "Stephen Alt is a Junior studying Computer Science, Physics and Math. On co-op he has worked for IBM and IBM Research; he is extremely passionate about spreading knowledge, which can be seen through his work as a Computer Science TA, Physics Teaching Fellow, Khoury Teaching Fellow, and Instructor for Girls Who Code. A fun fact about Stephen is that he was born in Germany (sadly, he has forgotten how to speak German since then)."
